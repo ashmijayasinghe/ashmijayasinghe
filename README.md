@@ -2,33 +2,38 @@
   <img src="ashmi-banner.jpg" alt="Ashmi Jayasinghe" width="100%" />
 </p>
 
-### Hey! 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=F0F6FC&center=true&v=v&width=720&height=70&lines=Hey+I%27m+Ashmi+Jayasinghe">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=0D1117&center=true&v=v&width=720&height=70&lines=Hey+I%27m+Ashmi+Jayasinghe" alt="Hey I'm Ashmi Jayasinghe" />
+  </picture>
+</p>
 
-[![visitors](https://komarev.com/ghpvc/?username=ashmijayasinghe&label=visitors&color=0e75b6&style=flat)](https://github.com/ashmijayasinghe)
-[![followers](https://img.shields.io/github/followers/ashmijayasinghe?label=Follow&style=social)](https://github.com/ashmijayasinghe?tab=followers)
+<p align="center">
+  <a href="https://github.com/ashmijayasinghe"><img src="https://komarev.com/ghpvc/?username=ashmijayasinghe&label=visitors&color=0e75b6&style=flat" alt="visitors" /></a>
+  &nbsp;
+  <a href="https://github.com/ashmijayasinghe?tab=followers"><img src="https://img.shields.io/github/followers/ashmijayasinghe?label=Follow&style=social" alt="followers" /></a>
+</p>
 
-I'm Ashmi Jayasinghe!
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
-- 🔭 Currently: IT & Management undergraduate at the University of Moratuwa, building **EventHub**.
-- 🌱 Learning: **Next.js, React, Tailwind CSS, and process optimization**.
+I'm an IT & Management undergraduate at the **University of Moratuwa**.
 
-### 💻 I'm Currently Learning
+- 🔭 Currently building **EventHub**
+- 🌱 Learning **Next.js, React, Tailwind CSS, and process optimization**
+- 👯 Open to **frontend development** and **business analysis** projects
+- 💬 Ask me about **UI/UX design, Python, Java, C++, HTML, and CSS**
+- 📝 I write on [Medium](https://medium.com/@ashmihimasha1120)
+- 📫 **ashmihimasha1120@gmail.com**
 
-**University of Moratuwa**
-
-- Frontend development with Next.js, React, and Tailwind CSS
-- Process optimization
-- UI/UX design
-
-### 🤝 Open to
-
-- Frontend development projects
-- Business analysis projects
-- Writing on [Medium](https://medium.com/@ashmihimasha1120)
-
-### 📫 Reach me
-
-**ashmihimasha1120@gmail.com**
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="working-student.gif" alt="Working student" width="280" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
