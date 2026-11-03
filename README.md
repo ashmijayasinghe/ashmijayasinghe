@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ashmi-banner.jpg" alt="Ashmi Jayasinghe" width="100%" />
+  <img src="ashmi-banner-v4.jpg" alt="Ashmi Jayasinghe" width="100%" />
 </p>
 
 <p align="center">
@@ -57,8 +57,8 @@ I'm an IT & Management undergraduate at the **University of Moratuwa**.
 
   <h3>Connect with me</h3>
   <p>
-    <a href="https://linkedin.com/in/ashmi%20jayasinghe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://fb.com/ashmi%20himasha" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/ashmi-jayasinghe-81aa80359" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://web.facebook.com/shyamalidhamaynthi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
     <a href="https://medium.com/@ashmihimasha1120" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
   </p>
 
