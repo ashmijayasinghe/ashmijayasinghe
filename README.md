@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ashmi-banner-v4.jpg" alt="Ashmi Jayasinghe" width="100%" />
+  <img src="ashmi-bannernew.jpg" alt="Ashmi Jayasinghe" width="100%" />
 </p>
 
 <p align="center">
